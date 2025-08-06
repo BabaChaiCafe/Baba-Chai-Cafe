@@ -144,7 +144,7 @@ Baba Chai Cafe
     <div class="card">
       <h2>Contact & Location</h2>
       <p>📍 Kanpur, Uttar Pradesh <br>
-         📞 +91 98765 43210 <br>
+         📞 +91 8840035700 <br>
          ✉️ info@babachaicafe.com</p>
     </div>
   </section>
